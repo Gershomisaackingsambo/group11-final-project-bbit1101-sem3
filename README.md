@@ -7,7 +7,7 @@
 **Members:**  
 - Gershom Isaac Kingsambo  
 - Daniel Amara  
-- Ramatu Bah  
+- Ramatu AA Koroma  
 
 ---
 
@@ -123,5 +123,6 @@ Notes
 	•	Ensure PostgreSQL is running and accessible before launching the app
 	•	Only members can borrow/return books; librarians have full management permissions
 	•	Maximum 3 active loans per member; loan due date = 7 days
+
 
 
